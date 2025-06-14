@@ -62,7 +62,7 @@ npm start
  📸 Screenshots
 
 <p align="center">
-  <img src="./assets/Screenshot%202025-06-14%20110744.png" alt="screenshot" />
+  <img src="./assets/Screenshot 2025-06-14 113001.png" alt="screenshot" />
   <img src="./assets/Screenshot%202025-06-14%20111204.png" alt="screenshot" />
   <img src="./assets/Screenshot%202025-06-14%20111215.png" alt="screenshot" />
   <img src="./assets/Screenshot%202025-06-14%20111233.png" alt="screenshot" />
