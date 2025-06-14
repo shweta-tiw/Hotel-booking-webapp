@@ -59,7 +59,19 @@ cd client
 npm install
 npm start
 
-🖼️ Screenshots
+ 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/Screenshot%202025-06-14%20110744.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111204.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111215.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111233.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111252.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111305.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111313.png" alt="screenshot" />
+  <img src="./assets/Screenshot%202025-06-14%20111323.png" alt="screenshot" />
+</p>
+
 
 
 
