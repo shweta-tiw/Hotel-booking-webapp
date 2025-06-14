@@ -15,7 +15,7 @@ Built using the powerful MERN Stack (MongoDB, Express.js, React.js, Node.js)**, 
 - 🧱 Clean, Scalable Component-Based Architecture  
 - ☁️ Deployed on:
   - Vercel (Frontend)
-  - Render or Heroku (Backend)
+  - Render  (Backend)
 
 ---
 
